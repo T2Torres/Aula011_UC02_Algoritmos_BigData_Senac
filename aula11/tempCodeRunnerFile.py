@@ -1,0 +1,1 @@
+contagens, limites = np.histogram(array_roubo_veiculo, bins=100)
